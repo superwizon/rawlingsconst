@@ -152,7 +152,7 @@ body {
 
 
 .tp{
-  margin-top: 100px;
+  margin-top: 150px;
 }
 .1p{
   max-width: 100%;
@@ -172,5 +172,9 @@ body {
   margin-left: -50%;
 }
 
+/*body {
+  background: url(images/concrete_seamless.png) repeat; 
+  background-attachment: fixed;
+}
 
 
