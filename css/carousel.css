@@ -5,6 +5,7 @@
 body {
   padding-bottom: 40px;
   color: #5a5a5a;
+  background-color: #A4A4A5;
 }
 
 
@@ -169,7 +170,7 @@ body {
   max-width: 100%;
   max-height: auto;
   margin: 2px;
-  margin-left: -50%;
+
 }
 
 /*body {
